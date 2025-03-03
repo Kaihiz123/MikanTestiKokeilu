@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tunturipollo_0: 3270614839577038214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
