@@ -827,6 +827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1598743920}
   - component: {fileID: 1598743919}
+  - component: {fileID: 1598743922}
   - component: {fileID: 1598743921}
   m_Layer: 0
   m_Name: DoTest_nocode
@@ -1013,6 +1014,21 @@ MonoBehaviour:
   optionalScrambleMode: 0
   optionalShakeRandomnessMode: 0
   optionalString: 
+--- !u!114 &1598743922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1598743917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  preset: 0
+  onEnableBehaviour: 0
+  onDisableBehaviour: 0
 --- !u!1 &1609922852
 GameObject:
   m_ObjectHideFlags: 0
